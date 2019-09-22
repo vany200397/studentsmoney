@@ -1,0 +1,49 @@
+label.studentid:hover
+{
+    text-decoration: underline;
+}
+
+label.studentid
+{
+    text-decoration: none;
+}
+
+body
+{
+    background-color: palegoldenrod;
+}
+
+input
+{
+    background-color: palegoldenrod;
+}
+
+.modal
+{
+    display: none;
+    z-index: 1;
+    background-color: rgba(181, 230, 29, 0.9);
+    border: 1px solid black;
+    position: absolute;
+    left: 15%;
+    top: 25%;
+    width: 70%;
+    height: 50%;
+    overflow: auto;
+    
+}
+
+.reglabel
+{
+    margin-left: 5px;
+}
+
+.reginput
+{
+    margin-right: 5px;
+}
+
+.regrow
+{
+    margin-top: 20px;
+}
